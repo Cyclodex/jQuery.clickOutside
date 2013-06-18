@@ -4,7 +4,8 @@ jQuery.clickOutside
 jQuery plugin: do something when click outside of an element, like closing a popup/login/panel
 
 
-== Example
+Example
+-------
 
 You can hide a sliding in login box when clicking outside of that region:
 
